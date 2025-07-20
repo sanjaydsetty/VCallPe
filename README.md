@@ -1,8 +1,9 @@
 # 📡 VCallPe – Real-Time Video Conferencing Platform
 
-**VCallPe** is a real-time video conferencing web application that emphasizes core **computer networking principles** through its architecture and functionality. Built using the **MERN stack**, it leverages **WebRTC** and **Socket.IO** to establish seamless, secure peer-to-peer communication for high-quality video, audio, and messaging.
+**VCallPe** is a full-stack video conferencing application designed to demonstrate real-world applications of **computer networking** concepts such as **peer-to-peer communication**, **NAT traversal**, **signaling**, and **real-time media streaming**. Built with the **MERN stack**, the app utilizes **WebRTC** for low-latency audio/video transmission and **Socket.IO** for signaling and chat.
 
-This project is a strong candidate for showcasing knowledge in **computer networks**, **real-time communication**, and **web security**.
+This project showcases how front-end and back-end systems can coordinate to establish secure and efficient real-time communication, making it ideal for academic or professional portfolios focused on **network protocols**, **distributed communication**, or **network-aware applications**.
+
 
 ---
 
