@@ -55,5 +55,5 @@ This project is a strong candidate for showcasing knowledge in **computer networ
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/vcallpe.git
+git clone https://github.com/sanjaydsetty/VCallPe.git
 cd vcallpe
